@@ -146,6 +146,7 @@ venv/
 **Utkarsh Gupta (202210101150001)**
 
 **Shivendra Gupta (202210101150021)**
+
 🎓 B.Tech in Computer Science (Data Science & AI)  
 🏫 Shri Ramswaroop Memorial University  
 📍 Lucknow, India  
