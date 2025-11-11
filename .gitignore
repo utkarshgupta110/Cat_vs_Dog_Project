@@ -1,0 +1,30 @@
+# Ignore dataset and model files
+data/
+outputs/
+*.h5
+*.keras
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
