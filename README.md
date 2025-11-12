@@ -42,7 +42,6 @@ Cat_vs_Dog_Project/
 │  
 ├── requirements.txt  
 ├── README.md 
-
 └── .gitignore
 
 ---
